@@ -217,3 +217,4 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 git pull origin
 git push --set-upstream origin main
+git remote remove origin
