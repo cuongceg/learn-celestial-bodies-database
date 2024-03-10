@@ -220,3 +220,4 @@ git push --set-upstream origin main
 git remote remove origin
 git remote add https://github.com/cuongceg/post_gres_universe.git
 git remote add origin https://github.com/cuongceg/post_gres_universe.git
+git pull --rebase origin main
