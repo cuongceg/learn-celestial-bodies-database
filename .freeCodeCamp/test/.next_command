@@ -218,3 +218,5 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 git pull origin
 git push --set-upstream origin main
 git remote remove origin
+git remote add https://github.com/cuongceg/post_gres_universe.git
+git remote add origin https://github.com/cuongceg/post_gres_universe.git
